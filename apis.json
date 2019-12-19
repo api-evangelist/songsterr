@@ -1,0 +1,65 @@
+{
+    "name": "Songsterr",
+    "description": "Guitar, bass and drum tabs & chords with free online tab player. One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/485-songsterr.jpg",
+    "tags": [
+        "have api",
+        "music",
+        "sheetmusic"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/songsterr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Songsterr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/485-songsterr.jpg",
+            "humanURL": "http:\/\/www.songsterr.com\/a\/wa\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/songsterr-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.songsterr.com\/a\/wa\/api"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.songsterr.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.songsterr.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/songsterr"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/songsterr"
+        },
+        {
+            "type": "Email",
+            "url": "support+web@songsterr.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/songsterr"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/songsterr"
+        }
+    ]
+}
