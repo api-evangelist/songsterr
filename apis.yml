@@ -1,0 +1,32 @@
+aid: songsterr
+name: Songsterr
+description: "Provides guitar, bass and drums tabs and chords"
+url: https://www.songsterr.com/a/wa/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Songsterr
+    description: "Provides guitar, bass and drums tabs and chords"
+    humanURL: https://www.songsterr.com/a/wa/api/
+    baseURL: https://www.songsterr.com/a/wa/api/
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://www.songsterr.com/a/wa/api/
+common:
+  - type: Website
+    url: https://www.songsterr.com/a/wa/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
