@@ -1,0 +1,20 @@
+generated: '2026-07-11'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.songsterr.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Aug 13 07:11:10 2026 GMT
+  hsts: null
+domains:
+- domain: songsterr.com
+  dnssec: true
+  caa:
+  - 0 iodef "mailto:dev@songsterr.com"
+  - 0 issue "amazon.com"
+  - 0 issue "buypass.com"
+  - 0 issue "letsencrypt.org"
+  spf: true
+  dmarc: true
+  dmarc_policy: none
