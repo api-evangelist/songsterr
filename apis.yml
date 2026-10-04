@@ -39,7 +39,6 @@ apis:
   - name: Songsterr
     description: "Provides guitar, bass and drums tabs and chords"
     humanURL: https://www.songsterr.com/a/wa/api/
-    baseURL: https://www.songsterr.com/a/wa/api/
     tags:
       - Music
     properties:
